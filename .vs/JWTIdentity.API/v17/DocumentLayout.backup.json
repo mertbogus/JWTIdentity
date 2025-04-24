@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|c:\\users\\mert\\source\\repos\\jwtidentity\\jwtidentity.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|solutionrelative:jwtidentity.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|c:\\users\\mert\\source\\repos\\jwtidentity\\jwtidentity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|solutionrelative:jwtidentity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|c:\\users\\mert\\source\\repos\\jwtidentity\\jwtidentity.api\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|solutionrelative:jwtidentity.api\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|c:\\users\\mert\\source\\repos\\jwtidentity\\jwtidentity.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|solutionrelative:jwtidentity.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|c:\\users\\mert\\source\\repos\\jwtidentity\\jwtidentity.api\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A71AD84-C95B-4AB6-897C-336D4079F7F0}|JWTIdentity.API\\JWTIdentity.API.csproj|solutionrelative:jwtidentity.api\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Program.cs",
+              "RelativeDocumentMoniker": "JWTIdentity.API\\Program.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Program.cs",
+              "RelativeToolTip": "JWTIdentity.API\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:09:07.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "JWTIdentity.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "JWTIdentity.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:17:20.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "JWTIdentity.API\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "JWTIdentity.API\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:06:36.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "JWTIdentity.API\\Models\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "JWTIdentity.API\\Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:39:24.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "JWTIdentity.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\JWTIdentity\\JWTIdentity.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "JWTIdentity.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:36:59.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

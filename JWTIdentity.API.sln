@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTIdentity.API", "..\JWTIdentity\JWTIdentity.API\JWTIdentity.API.csproj", "{3A71AD84-C95B-4AB6-897C-336D4079F7F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A71AD84-C95B-4AB6-897C-336D4079F7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A71AD84-C95B-4AB6-897C-336D4079F7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A71AD84-C95B-4AB6-897C-336D4079F7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A71AD84-C95B-4AB6-897C-336D4079F7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E8581D-1BA8-4829-A335-377EB4774CBA}
+	EndGlobalSection
+EndGlobal
